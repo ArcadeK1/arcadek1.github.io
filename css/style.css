@@ -479,3 +479,14 @@
     font-size: 40pt;
     padding-bottom: 20px;
 }
+
+
+#subscribename
+{
+    width: 350px;
+}
+
+#subscribeemail
+{
+    width: 350px;
+}
